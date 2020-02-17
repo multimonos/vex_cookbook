@@ -1,4 +1,7 @@
 //
+// Expected:
+// A point is added to the center of each Primitive in a Grid
+//
 // Network:
 //   Grid:
 //     Rows: 4
