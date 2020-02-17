@@ -1,0 +1,12 @@
+// method 1
+int A = addpoint(0, {0,0,0}); 
+int B = addpoint(0, {0,0,1});
+addprim(0, "polyline", A, B);
+
+
+// method 2
+int C = addpoint(0, {2,0,0}); 
+int D = addpoint(0, {2,0,1});
+int CD = addprim(0, "polyline");
+addvertex(0, CD, C);
+addvertex(0, CD, D);
