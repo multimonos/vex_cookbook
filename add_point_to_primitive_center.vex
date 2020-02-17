@@ -3,3 +3,6 @@
 //     RunOver: "Detail (only once)"
 
 addpoint(0, @P);
+
+// optional - remove primitive but keep the point
+removeprim(0, @primnum, 1);  
