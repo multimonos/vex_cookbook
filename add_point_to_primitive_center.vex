@@ -1,8 +1,12 @@
+//
 // Network:
+//   Grid:
+//     Rows: 4
+//     Columns: 4
 //   AttributeWrangle:
-//     RunOver: "Detail (only once)"
-
+//     RunOver: "Primitives"
+//
 addpoint(0, @P);
 
 // optional - remove primitive but keep the point
-removeprim(0, @primnum, 1);  
+// removeprim(0, @primnum, 1);  
