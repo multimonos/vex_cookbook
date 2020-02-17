@@ -1,6 +1,11 @@
+//
+// Expected:
+// A Polyline with 2 points is created
+//
 // Network:
 //   AttributeWrangle:
 //     RunOver: "Detail (only once)"
+//
 
 // method 1
 int A = addpoint(0, {0,0,0}); 
