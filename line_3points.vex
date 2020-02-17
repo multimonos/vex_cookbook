@@ -1,3 +1,7 @@
+// Network:
+//   AttributeWrangle:
+//     RunOver: "Detail (only once)"
+
 int C = addpoint(0, {0,0,0}); 
 int D = addpoint(0, {0,0,1});
 int E = addpoint(0, {1,0,1});
