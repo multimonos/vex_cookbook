@@ -1,0 +1,9 @@
+int C = addpoint(0, {0,0,0}); 
+int D = addpoint(0, {0,0,1});
+int E = addpoint(0, {1,0,1});
+
+int CDE = addprim(0, "polyline");
+
+addvertex(0, CDE, C);
+addvertex(0, CDE, D);
+addvertex(0, CDE, E);
