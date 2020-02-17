@@ -1,6 +1,11 @@
+//
+// Expected:
+// A Polyline with 3 points is created to form a single Primitive
+//
 // Network:
 //   AttributeWrangle:
 //     RunOver: "Detail (only once)"
+//
 
 int C = addpoint(0, {0,0,0}); 
 int D = addpoint(0, {0,0,1});
