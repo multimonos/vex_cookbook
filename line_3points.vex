@@ -1,6 +1,6 @@
 //
 // Expected:
-// A Polyline with 3 points is created to form a single Primitive
+// An L-shaped Polyline consisting of 3 points is created to form a single Primitive
 //
 // Network:
 //   AttributeWrangle:
