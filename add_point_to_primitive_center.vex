@@ -1,0 +1,5 @@
+// Network:
+//   AttributeWrangle:
+//     RunOver: "Detail (only once)"
+
+addpoint(0, @P);
